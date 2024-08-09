@@ -6,7 +6,7 @@ export class BlogOne extends Component {
   render() {
     return (
       <div>
-        This Is BlogOne Page
+        This Is BlogOne Page and blogpage2
 
         
         <Link to = "/ContUs"><button>Blog Page</button></Link>
