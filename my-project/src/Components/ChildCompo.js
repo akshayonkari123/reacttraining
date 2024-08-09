@@ -4,7 +4,7 @@ import React from "react";
 const ChildCompo = (props) => {
     return(
         <div>
-         <p>This is the Child Component Trying to send the data Parent Component Your Name : {props.name}</p>
+         <p>This is the Child Component Trying to send the data : {props.name}</p>
 
          <p>Your Employee ID is : {props.empId}</p>
 
